@@ -12,7 +12,7 @@ https://www.linkedin.com/in/haifeng-liu/
 
 技术专长包括：云计算、数据基础设施，电商系统，搜索及对话式AI
 
-2024.7 至今，Starfort AI，教育领域创业尝试
+2024.7 至今，Stealthy Startup
 
 2020.4 - 2024.6，OPPO
 * 先后担任互联网事业部CTO与数智工程事业部总裁，管理多地团队一千余人。
