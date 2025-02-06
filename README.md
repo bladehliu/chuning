@@ -1,10 +1,10 @@
 # Haifeng Liu
 
-刘海锋  https://www.linkedin.com/in/haifeng-liu/
+刘海锋 [LinkedIn](https://www.linkedin.com/in/haifeng-liu)
 
-技术专长包括：云计算、数据系统，电商架构，搜索，对话式AI
+技术领域：云计算、数据系统，电商架构，搜索及对话式AI
 * 曾获得北京市科技进步奖
-* 曾担任云原生计算基金会(CNCF)全球理事
+* 曾担任云原生计算基金会（CNCF）全球理事
 * 在KDD、SIGCSE、SIGMOD、SIGIR、WWW 等国际会议发表论文多篇
 * 设计并开源 CubeFS 云原生存储和 Vearch 向量搜索系统
 
