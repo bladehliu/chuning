@@ -1,0 +1,157 @@
+# **CubeFlow - Dataflow System for Robots & Smart Devices**
+
+## **1. Executive Summary**
+
+### **Business Overview**
+
+CubeFlow is an innovative robotic dataflow system that revolutionizes data management for autonomous systems. 
+It enables real-time, high-throughput, and intelligent data processing for robotics & smart devices, leveraging **edge-cloud collaboration, compute-storage separation, and AI-native optimizations**.
+
+### **Problem Statement**
+
+Modern robotics generates **vast amounts of multi-modal data** from cameras, LiDAR, IMU sensors, and other sources. 
+Existing solutions (e.g., ROS1/2) rely on legacy message-passing architectures, leading to data inefficiencies, high latency, and lack of AI-driven optimization. 
+CubeFlow addresses these issues by introducing a next-generation robotic dataflow system.
+
+### **Solution**
+
+CubeFlow provides a scalable, low-latency, and intelligent dataflow system with:
+
+- **Efficient data management:** High-throughput storage and retrieval optimized for robotic data.
+- **Edge-cloud collaboration:** Seamless data sharing and processing across distributed environments.
+- **AI-native data pipelines:** Automated annotation, real-time indexing, and incremental *_online learning_*.
+
+### **Business Model**
+
+CubeFlow follows a B2B SaaS and Enterprise Licensing Model, targeting robotics OEMs, autonomous vehicle companies, AI-powered device and industrial automation firms.
+
+- SaaS Platform: Cloud-hosted CubeFlow service with a subscription-based pricing model.
+- Enterprise Licensing: On-premise deployment for large enterprises with annual licensing fees.
+- Consulting & Support: Custom integrations, performance optimizations, and premium SLAs.
+
+### **Market Opportunity**
+
+The global robotics software market is projected to reach \$30B+ by 2030. 
+CubeFlow aims to capture a significant share of this market by offering next-generation dataflow management tailored for AI-driven robotics.
+
+### **Competitive Advantage**
+
+- High Performance: **10x faster** data processing than ROS and traditional messaging architectures.
+- AI-Optimized Storage: Native support for AI workloads with smart indexing and incremental training + online learning.
+- Cloud-Edge Synergy: Seamless hybrid deployment for real-time decision-making at the edge.
+- Developer-Friendly: Open API and SDKs for easy integration into robotic platforms.
+
+### **Financial Projections**
+
+- **Break-even:** Within 18-24 months
+
+### **Funding Requirements**
+
+Seeking **5M in Seed funding** to accelerate product development, expand sales & marketing, and build strategic partnerships with leading robotics companies.
+
+## **2. Market Analysis**
+
+### **Industry Trends**
+
+- Autonomous Robotics Growth: Increasing demand for AI-driven robots in industrial, logistics, and healthcare sectors.
+- Data-Driven AI Systems: The rise of AI-powered perception and decision-making systems requiring high-quality, structured data.
+- Cloud-Native Robotics: Shift toward cloud-integrated robotic platforms for better scalability and intelligence.
+
+### **Target Customers**
+
+1. Industrial Robotics Firms  – Require high-throughput AI training data.
+2. Smart Device Manufacturers – Seek efficient multi-modal sensor data management.
+
+### **Competitive Landscape**
+
+| Competitor                    | Strengths                       | Weaknesses                                          |
+| ----------------------------- | ------------------------------- | --------------------------------------------------- |
+| ROS1/2                    | History, open-source    | Poor dataflow optimization, limited storage, lacks AI-native support |
+| Custom In-House Solutions | Tailored for specific companies | High development & maintenance costs                |
+
+* Open Source + Cloud Service
+
+**CubeFlow will be delivered as open source and as a hosted cloud service.**
+
+## **3. Product & Technology**
+
+### **Core Features**
+
+1. Multi-Modal Data Management: Supports LiDAR, cameras, radar, and other sensors.
+2. Edge-Cloud Dataflow Optimization: Intelligent caching and scalable storage & computation. 
+3. AI-Enhanced Data Pipelines: Automated data annotation, filtering, and _real-time online learning_.
+4. Compute-Storage Separation: Highly scalable data infrastructure with **low-latency indexing** with timestamps + labels.
+5. Developer APIs & SDKs: Seamless integration into existing robotics platforms.
+
+### **Technology Stack**
+
+- **CubeFS:** Distributed storage optimized for robotics data
+- **CubeFlow Cloud:** Indexing, labeling, and learning
+- **CubeFlow Edge:** On-device middleware
+
+## **4. Business & Revenue Model**
+
+### **Go-To-Market Strategy**
+
+1. Enterprise Partnerships: Co-develop CubeFlow with robotics leaders to ensure real-world adoption.
+2. SaaS Subscriptions: Offer cloud-based CubeFlow services to robotics startups & AI researchers.
+3. OEM Integration: License CubeFlow as a built-in dataflow engine for robotic hardware vendors.
+
+### **Revenue Streams**
+
+* SaaS subscripton of CubeFlow Cloud: 1W~5W/month (tiered pricing)
+* On-premise deployment: 10W~100W annually
+* Consulting and integration: 20W per project
+
+
+## **5. Roadmap & Milestones**
+
+### **Year 1: Product Development & Initial Deployment**
+
+1. MVP launch with key partners
+2. Secure initial customer pilots (3-5 enterprise clients)
+3. Validate core technology & optimize for production workloads
+
+### **Year 2: Scale & Market Expansion**
+
+1. Full-scale SaaS launch with self-service onboarding
+2. Expansion into additional robotics verticals (e.g., drones, autonomous delivery)
+3. Secure 10M+ in revenue from enterprise & SaaS customers
+
+### **Year 3: Fast Growth**
+
+1. Advanced AI-driven data optimization for robotics applications
+2. Global partnerships with robotic manufacturers
+3. Achieve 10,000+ robots using CubeFlow worldwide
+
+## **6. Team & Leadership**
+
+### **Founding Team**
+
+Founder & teams behind CubeFS - the CNCF graduated open-source cloud-native storage and Vearch - the first open-source vector search. 
+
+Served as technical vice president in Internet companies and mobile device companies successively and has a deep understanding of end-cloud collaboration.
+
+### **Advisors & Strategic Partners**
+
+
+## **7. Financial Plan & Funding**
+
+### **Financial Projections (3-Year Outlook)**
+
+| Year       | Revenue | Expenses | Net Profit |
+| ---------- | ------- | -------- | ---------- |
+| **Year 1** | 1M    | 5M     | -4M      |
+| **Year 2** | 12M   | 10M    | 2M       |
+| **Year 3** | 20M   | 10M    | 10M       |
+
+### **Funding Needs & Use of Funds**
+
+Seeking **5M in Seed funding** to scale engineering, sales, and product development; allocation: 70% R&D, 20% cloud infrastructure, 10% operations.
+
+---
+
+## **8. Conclusion**
+
+CubeFlow is poised to become the **de facto dataflow standard for robotics**, transforming how robots manage and process data. 
+With strong market demand, a cutting-edge product, and a scalable business model, we are ready to build the future of robotic dataflow! 
