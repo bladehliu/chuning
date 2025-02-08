@@ -5,10 +5,13 @@
 技术领域：云计算，数据系统，电商架构，搜索，AI工程
 * 曾获得北京市科技进步奖
 * 曾担任云原生计算基金会（CNCF）全球理事
-* 在KDD、SIGCSE、SIGMOD、SIGIR、WWW 等国际会议发表论文多篇
-* 设计并开源 CubeFS 云原生存储和 Vearch 向量搜索系统
+* 在KDD、Middleware、SIGCSE、SIGMOD、SIGIR、WWW 等国际会议发表论文多篇
+* 设计并开源 CubeFS 云原生存储和 Vearch 向量搜索系统，前者成为 CNCF 毕业项目
 
 ### 工作履历
+
+2024 - 至今，Stealth Startup
+* 面向机器人及智能设备的数据流系统
 
 2020 - 2024，OPPO
 * 担任互联网CTO与数智工程事业部总裁
