@@ -1,4 +1,4 @@
-# **CubeFlow - Dataflow System for Robots & Smart Devices**
+# **CubeFlow - Dataflow System for Robots and Smart Devices**
 
 ## **1. Executive Summary**
 
@@ -64,14 +64,10 @@ Seeking **5M in Seed funding** to accelerate product development, expand sales &
 
 ### **Competitive Landscape**
 
-| Competitor                    | Strengths                       | Weaknesses                                          |
-| ----------------------------- | ------------------------------- | --------------------------------------------------- |
-| ROS1/2                    | History, open-source    | Poor dataflow optimization, limited storage, lacks AI-native support |
-| Custom In-House Solutions | Tailored for specific companies | High development & maintenance costs                |
+* ROS1/2: long history, open-source; limited storage, no cloud, no indexing, locks AI-native support
+* Custom In-House Solutions: tailored for specific companies; high development & maintenance costs
+* CubeFlow: Open Source, Cloud Service + Robotics Middleware
 
-* Open Source + Cloud Service
-
-**CubeFlow will be delivered as open source and as a hosted cloud service.**
 
 ## **3. Product & Technology**
 
