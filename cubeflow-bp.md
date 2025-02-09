@@ -1,4 +1,4 @@
-# **CubeFlow - Dataflow System for Robots and Smart Devices**
+# Dataflow System for Robots and Smart Devices
 
 ## **1. Executive Summary**
 
@@ -130,6 +130,7 @@ Served as technical vice president in Internet companies and mobile device compa
 
 ### **Advisors & Strategic Partners**
 
+Sevear founders/executives of robots and intelligent IoT enterprises
 
 ## **7. Financial Plan & Funding**
 
