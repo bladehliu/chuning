@@ -68,6 +68,16 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 * Custom In-House Solutions: tailored for specific companies; high development & maintenance costs
 * CubeFlow: Open Source, Cloud Service + Robotics Middleware
 
+### **CubeFlow Compared to Traditional Robotics Middleware**  
+| Feature               | **Traditional Middleware (e.g., ROS 2)** | **CubeFlow** |
+|----------------------|---------------------------------|-----------------|
+| **Communication** | Uses ROS topics/services | Cloud-native APIs & event-driven processing |
+| **Data Storage** | Limited built-in support | Native support for unlimited storage, labels, annotations & retrieval |
+| **AI Integration** | Needs external storage & processing | Direct AI/ML workflow integration |
+| **Cloud & Edge** | Mostly local | Hybrid (cloud + edge) |
+| **Multi-Robot Coordination** | Requires additional frameworks | Built-in scalability for multi-robot data management |
+
+
 
 ## **3. Product & Technology**
 
@@ -81,8 +91,8 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 
 ### **Technology Stack**
 
-- **CubeFlow Cloud:** Storage, indexing, labeling, learning, analytics, and visualization
-- **CubeFlow Middleware:** On-device middleware, ingestion, preprocessing, SDKs
+- **CubeFlow Cloud:** Fleet management, data storage & indexing, labeling & learning, search & analytics, visualization & observability
+- **CubeFlow Middleware:** On-device agent, ingestion, preprocessing, SDKs, etc.
 
 ## **4. Business & Revenue Model**
 
