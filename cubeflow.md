@@ -36,10 +36,9 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 
 ### **Competitive Advantage**
 
-- High Performance: **10x faster** data processing than ROS and traditional messaging architectures.
 - AI-Optimized Storage: Native support for AI workloads with smart indexing and incremental training + online learning.
-- Cloud-Edge Synergy: Seamless hybrid deployment for real-time decision-making at the edge.
-- Developer-Friendly: Open API and SDKs for easy integration into robotic platforms.
+- Cloud-Edge Synergy: Seamless hybrid deployment
+- Developer-Friendly: Open API and SDKs for easy integration
 
 ### **Financial Projections**
 
@@ -68,8 +67,10 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 * Custom In-House Solutions: tailored for specific companies; high development & maintenance costs
 * CubeFlow: Open Source, Cloud Service + Robotics Middleware
 
-### **CubeFlow Compared to Traditional Robotics Middleware**  
-| Feature               | **Traditional Middleware (e.g., ROS 2)** | **CubeFlow** |
+**CubeFlow Compared to Traditional Robotic Middleware** 
+
+
+| Feature              | Traditional Middleware          | CubeFlow        |  
 |----------------------|---------------------------------|-----------------|
 | **Communication** | Uses ROS topics/services | Cloud-native APIs & event-driven processing |
 | **Data Storage** | Limited built-in support | Native support for unlimited storage, labels, annotations & retrieval |
