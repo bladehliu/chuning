@@ -1,11 +1,16 @@
-# Dataflow System for Robots and Smart Devices
+# CubeFlow: Robotic Dataflow System
 
 ## **1. Executive Summary**
 
-### **Business Overview**
+### **Overview**
 
-CubeFlow is an innovative robotic dataflow system that revolutionizes data management for autonomous systems. 
-It enables real-time, high-throughput, and intelligent data processing for robotics & smart devices, leveraging **edge-cloud collaboration, compute-storage separation, and AI-native optimizations**.
+CubeFlow is an innovative robotic dataflow system that revolutionizes data management for robotics & smart devices. 
+
+It enables seamless data ingestion, processing, storage, and analytics by managing robotic data pipelines from edge to cloud. 
+
+And CubeFlow is expected to become the next-generation, AI-native robotics platform to significantly simplify robotic system development.
+
+
 
 ### **Problem Statement**
 
