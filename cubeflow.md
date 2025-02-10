@@ -81,9 +81,8 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 
 ### **Technology Stack**
 
-- **CubeFS:** Distributed storage optimized for robotics data
-- **CubeFlow Cloud:** Indexing, labeling, learning, analytics, and visualization
-- **CubeFlow Edge:** On-device middleware, ingestion, preprocessing, SDKs
+- **CubeFlow Cloud:** Storage, indexing, labeling, learning, analytics, and visualization
+- **CubeFlow Middleware:** On-device middleware, ingestion, preprocessing, SDKs
 
 ## **4. Business & Revenue Model**
 
