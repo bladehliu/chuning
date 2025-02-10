@@ -10,8 +10,8 @@ It enables real-time, high-throughput, and intelligent data processing for robot
 ### **Problem Statement**
 
 Modern robotics generates **vast amounts of multi-modal data** from cameras, LiDAR, IMU sensors, and other sources. 
-Existing solutions (e.g., ROS1/2) rely on legacy message-passing architectures, leading to data inefficiencies, high latency, and lack of AI-driven optimization. 
-CubeFlow addresses these issues by introducing a next-generation robotic dataflow system.
+Efficient, end-to-end robotic data management remains an open problem. 
+CubeFlow addresses it by introducing a next-generation robotic dataflow system.
 
 ### **Solution**
 
@@ -23,7 +23,7 @@ CubeFlow provides a scalable, low-latency, and intelligent dataflow system with:
 
 ### **Business Model**
 
-CubeFlow follows a B2B SaaS and Enterprise Licensing Model, targeting robotics OEMs, autonomous vehicle companies, AI-powered device and industrial automation firms.
+CubeFlow follows a B2B SaaS and Enterprise Licensing Model, targeting robotics OEMs, AI-powered device and industrial automation firms.
 
 - SaaS Platform: Cloud-hosted CubeFlow service with a subscription-based pricing model.
 - Enterprise Licensing: On-premise deployment for large enterprises with annual licensing fees.
@@ -47,7 +47,7 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 
 ### **Funding Requirements**
 
-Seeking **5M in Seed funding** to accelerate product development, expand sales & marketing, and build strategic partnerships with leading robotics companies.
+Seeking 500W in the first funding to accelerate product development, expand sales & marketing, and build strategic partnerships with leading robotics companies.
 
 ## **2. Market Analysis**
 
@@ -82,8 +82,8 @@ Seeking **5M in Seed funding** to accelerate product development, expand sales &
 ### **Technology Stack**
 
 - **CubeFS:** Distributed storage optimized for robotics data
-- **CubeFlow Cloud:** Indexing, labeling, and learning
-- **CubeFlow Edge:** On-device middleware
+- **CubeFlow Cloud:** Indexing, labeling, learning, analytics, and visualization
+- **CubeFlow Edge:** On-device middleware, ingestion, preprocessing, SDKs
 
 ## **4. Business & Revenue Model**
 
@@ -130,7 +130,7 @@ Served as technical vice president in Internet companies and mobile device compa
 
 ### **Advisors & Strategic Partners**
 
-Sevear founders/executives of robots and intelligent IoT enterprises
+Several founders or executives of robots and intelligent IoT enterprises
 
 ## **7. Financial Plan & Funding**
 
@@ -144,7 +144,7 @@ Sevear founders/executives of robots and intelligent IoT enterprises
 
 ### **Funding Needs & Use of Funds**
 
-Seeking **5M in Seed funding** to scale engineering, sales, and product development; allocation: 70% R&D, 20% cloud infrastructure, 10% operations.
+Seeking 500W as the first funding to scale engineering, sales, and product development; allocation: 70% R&D, 20% cloud infrastructure, 10% operations.
 
 ---
 
