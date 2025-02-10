@@ -2,6 +2,9 @@
 
 ## **1. Executive Summary**
 
+### **Mission Statement:**  
+*"CubeFlow empowers next-generation robotics with a high-performance dataflow platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*  
+
 ### **Overview**
 
 CubeFlow is an innovative robotic dataflow system that revolutionizes data management for robotics & smart devices. 
@@ -9,7 +12,6 @@ CubeFlow is an innovative robotic dataflow system that revolutionizes data manag
 It enables seamless data ingestion, processing, storage, and analytics by managing robotic data pipelines from edge to cloud. 
 
 And CubeFlow is expected to become the next-generation, AI-native robotics platform to significantly simplify robotic system development.
-
 
 
 ### **Problem Statement**
