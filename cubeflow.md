@@ -15,7 +15,7 @@ CubeFlow addresses it by introducing a next-generation robotic dataflow system.
 
 ### **Solution**
 
-CubeFlow provides a scalable, low-latency, and intelligent dataflow system with:
+CubeFlow provides an end-to-end robotic dataflow platform with:
 
 - **Efficient data management:** High-throughput storage and retrieval optimized for robotic data.
 - **Edge-cloud collaboration:** Seamless data sharing and processing across distributed environments.
@@ -93,7 +93,7 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 ### **Technology Stack**
 
 - **CubeFlow Cloud:** Fleet management, data storage & indexing, labeling & learning, search & analytics, visualization & observability
-- **CubeFlow Middleware:** On-device agent, ingestion, preprocessing, SDKs, etc.
+- **CubeFlow Edge:** On-device agent, ingestion, preprocessing, SDKs, etc.
 
 ## **4. Business & Revenue Model**
 
