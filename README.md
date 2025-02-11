@@ -1,6 +1,4 @@
-### Harvey Lau
-
-刘海锋 
+### 刘海锋 
 
 [LinkedIn](https://www.linkedin.com/in/haifeng-liu)
 
