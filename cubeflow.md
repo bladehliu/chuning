@@ -1,25 +1,26 @@
-# CubeFlow: Robotic Dataflow System
+# CubeFlow: Dataflow Platform for Robots & Smart Devices
 
 ## **1. Executive Summary**
 
 ### **Mission Statement:**  
-*"CubeFlow empowers next-generation robotics with a high-performance dataflow platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*  
+
+*"CubeFlow empowers next-generation robotics with a high-performance dataflow platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
 
 ### **Overview**
 
-CubeFlow is an innovative robotic dataflow system that revolutionizes data management for robotics & smart devices. 
+CubeFlow stands as an innovative robotic dataflow system, revolutionizing data management for robotics and smart devices. 
 
-It enables seamless data ingestion, processing, storage, and analytics by managing robotic data pipelines from edge to cloud. 
+By effectively managing data pipelines from the edge to the cloud, it enables seamless data ingestion, processing, storage, and analytics. 
 
-And CubeFlow is expected to become the next-generation, AI-native robotics platform to significantly simplify robotic system development.
+We offer CubeFlow through a combination of ***cloud service + open source***. 
 
-* CubeFlow = cloud service + robotic middleware + open source
+Moreover, CubeFlow is anticipated to evolve into the next-generation, AI-native robotics platform, significantly streamlining the development of robotic systems. 
 
-### **Problem Statement**
+### **Problem**
 
-Modern robotics generates **vast amounts of multi-modal data** from cameras, LiDAR, IMU sensors, and other sources. 
+Modern robotics generates vast amounts of multi-modal data from cameras, LiDAR, IMU sensors, and other sources. 
 Efficient, end-to-end robotic data management remains an open problem. 
-CubeFlow addresses it by introducing a next-generation robotic dataflow system.
+CubeFlow addresses it by building a robotic dataflow system from scratch. 
 
 ### **Solution**
 
@@ -73,7 +74,6 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 
 * ROS1/2: long history, open-source; limited storage, no cloud, no indexing, locks AI-native support
 * Custom In-House Solutions: tailored for specific companies; high development & maintenance costs
-* CubeFlow: Open Source, Cloud Service + Robotics Middleware
 
 **CubeFlow Compared to Traditional Robotic Middleware** 
 
@@ -142,9 +142,10 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 
 ### **Founding Team**
 
-Founder & teams behind CubeFS - the CNCF graduated open-source cloud-native storage and Vearch - the first open-source vector search. 
+Creator & team members of CubeFS - the CNCF graduated open-source cloud-native storage and Vearch - the first open-source vector search. 
 
 Served as technical vice president in Internet companies and mobile device companies successively and has a deep understanding of end-cloud collaboration.
+
 
 ### **Advisors & Strategic Partners**
 
