@@ -4,17 +4,17 @@
 
 ### **Mission Statement:**  
 
-*"CubeFlow empowers next-generation robotics with a high-performance dataflow platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
+*"CubeFlow empowers next-generation robotics with an innovative dataflow platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
 
 ### **Overview**
 
-CubeFlow stands as an innovative robotic dataflow system, revolutionizing data management for robotics and smart devices. 
+CubeFlow is built as an AI-native, edge-cloud collaborative dataflow platform for robotics and smart devices. 
 
 By effectively managing data pipelines from the edge to the cloud, it enables seamless data ingestion, processing, storage, and analytics. 
 
 We offer CubeFlow through a combination of ***cloud service + open source***. 
 
-Moreover, CubeFlow is anticipated to evolve into the next-generation, AI-native robotics platform, significantly streamlining the development of robotic systems. 
+And CubeFlow is anticipated to evolve into the next-generation robotics platform, significantly streamlining the development of robotic systems. 
 
 ### **Problem**
 
@@ -28,7 +28,7 @@ CubeFlow provides an end-to-end robotic dataflow platform with:
 
 - **Efficient data management:** High-throughput storage and retrieval optimized for robotic data.
 - **Edge-cloud collaboration:** Seamless data sharing and processing across distributed environments.
-- **AI-native data pipelines:** Automated annotation, real-time indexing, and incremental *_online learning_*.
+- **AI-native data pipelines:** Automated annotation, real-time indexing, and incremental *online learning*.
 
 ### **Business Model**
 
@@ -55,7 +55,7 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 
 ### **Funding Requirements**
 
-Seeking 500W in the first funding to accelerate product development, expand sales & marketing, and build strategic partnerships with leading robotics companies.
+Seeking XXXW in the first funding to accelerate product development, expand sales & marketing, and build strategic partnerships with leading robotics companies.
 
 ## **2. Market Analysis**
 
@@ -101,7 +101,7 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 ### **Technology Stack**
 
 - **CubeFlow Cloud:** Fleet management, data storage & indexing, labeling & learning, search & analytics, visualization & observability
-- **CubeFlow Edge:** On-device agent, ingestion, preprocessing, SDKs, etc.
+- **CubeFlow Edge:** On-device agent, local storage, etc.
 
 ## **4. Business & Revenue Model**
 
@@ -113,9 +113,9 @@ Seeking 500W in the first funding to accelerate product development, expand sale
 
 ### **Revenue Streams**
 
-* SaaS subscripton of CubeFlow Cloud: 1W~5W/month (tiered pricing)
-* On-premise deployment: 10W~100W annually
-* Consulting and integration: 20W per project
+* SaaS subscripton of CubeFlow Cloud: XW/month (tiered pricing)
+* On-premise deployment: XW annually
+* Consulting and integration: XW per project
 
 
 ## **5. Roadmap & Milestones**
@@ -157,13 +157,13 @@ Several founders or executives of robots and intelligent IoT enterprises
 
 | Year       | Revenue | Expenses | Net Profit |
 | ---------- | ------- | -------- | ---------- |
-| **Year 1** | 1M    | 5M     | -4M      |
-| **Year 2** | 12M   | 10M    | 2M       |
-| **Year 3** | 20M   | 10M    | 10M       |
+| **Year 1** | XM    | XM     | -XM      |
+| **Year 2** | XXM   | XXM    | XM       |
+| **Year 3** | XXM   | XXM    | XXM       |
 
 ### **Funding Needs & Use of Funds**
 
-Seeking 500W as the first funding to scale engineering, sales, and product development; allocation: 70% R&D, 20% cloud infrastructure, 10% operations.
+Seeking XXXW as the first funding to scale engineering, sales, and product development; allocation: 70% R&D, 20% cloud infrastructure, 10% operations.
 
 ---
 
