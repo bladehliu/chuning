@@ -13,6 +13,7 @@ It enables seamless data ingestion, processing, storage, and analytics by managi
 
 And CubeFlow is expected to become the next-generation, AI-native robotics platform to significantly simplify robotic system development.
 
+* CubeFlow = cloud service + robotic middleware + open source
 
 ### **Problem Statement**
 
