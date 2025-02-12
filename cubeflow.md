@@ -90,18 +90,52 @@ Seeking XXXW in the first funding to accelerate product development, expand sale
 
 ## **3. Product & Technology**
 
+### **Design Philosophy**
+#### **(1) Modularity & Generalization**
+- CubeFlow follows a modular architecture, enabling different types of robots (robotic arms, drones, mobile robots, etc.) to be developed using the same software foundation.  
+- It provides a **hardware-agnostic API**, allowing developers to control various sensors, actuators, and computing units through standard interfaces.
+
+#### **(2) Cloud-Native & Remote Management**
+- Robots can be remotely monitored, managed, and controlled via CubeFlow Cloud.  
+- The cloud provides functionalities like real-time data analytics, remote debugging, device management, and over-the-air (OTA) software updates.
+
+#### **(3) Low-Code Development & Visual Configuration**
+- It offers a low-code approach, allowing developers to configure robots using a drag-and-drop web interface.  
+- It also provides REST and gRPC APIs for flexible customization and integration.
+
+#### **(4) Cross-Platform & Multi-Language Support**
+
 ### **Core Features**
 
 1. Multi-Modal Data Management: Supports LiDAR, cameras, radar, and other sensors.
 2. Edge-Cloud Dataflow Optimization: Intelligent caching and scalable storage & computation. 
 3. AI-Enhanced Data Pipelines: Automated data annotation, filtering, and _real-time online learning_.
-4. Compute-Storage Separation: Highly scalable data infrastructure with **low-latency indexing** with timestamps + labels.
+4. Compute-Storage Separation: Highly scalable data infrastructure with low-latency indexing with timestamps + labels.
 5. Developer APIs & SDKs: Seamless integration into existing robotics platforms.
 
 ### **Technology Stack**
 
-- **CubeFlow Cloud:** Fleet management, data storage & indexing, labeling & learning, search & analytics, visualization & observability
-- **CubeFlow Edge:** On-device agent, local storage, etc.
+#### **(1) Cubeflow Edge**
+- Runs on the robot’s local hardware, handling device drivers, task scheduling, data collection, and communication.  
+- Edge-cloud high-performance communication with bidirectional streaming.  
+- Features a plugin-based architecture, making it easy to extend support for different types of hardware (e.g., cameras, LiDAR, motors).
+
+### **(2) Cubeflow Cloud**
+- Offers remote fleet management, task orchestration, dataflow storage and real-time analytics, labels and learning. 
+- Supports web UI and API-based control for monitoring and managing robots - visualization & observability.  
+- Comes with built-in AI capabilities
+
+### **Comparison vs. Other Platforms**
+
+| **Feature**        | **CF** | **ROS** | **NVIDIA Isaac / AWS RoboMaker** |
+|--------------------|---------|---------------------------------|-------------------------------|
+| **Ease of Use**    | High (low-code, web-based) | Low (requires coding, complex configuration) | Medium (requires cloud SDKs) |
+| **Cloud-Native**   | Strong | Weak (requires manual cloud integration) | Strong (AWS RoboMaker) |
+| **Multi-Language** | Python, Go, JS | Mainly C++, Python | Mainly Python |
+| **Hardware Support** | High (API + plugins) | High (large open-source community) | Medium (Jetson-focused) |
+| **AI/ML Support**  | Strong (local & cloud AI) | Requires manual TensorFlow/PyTorch integration | Strong (AWS AI services) |
+| **Task Scheduling** | Built-in | Requires custom implementation | Cloud-based |
+
 
 ## **4. Business & Revenue Model**
 
@@ -140,12 +174,12 @@ Seeking XXXW in the first funding to accelerate product development, expand sale
 
 ## **6. Team & Leadership**
 
-### **Founding Team**
+### Founding Team
 
-Creator & team members of CubeFS - the CNCF graduated open-source cloud-native storage and Vearch - the first open-source vector search. 
+- Founder: the creator of CubeFS - the CNCF graduated open-source cloud-native storage and Vearch - the first open-source vector search, served as technical vice president in an Internet company and an mobile device company successively and has a deep understanding of end-cloud collaboration.
 
-Served as technical vice president in Internet companies and mobile device companies successively and has a deep understanding of end-cloud collaboration.
-
+- Technical Co-Founder: 
+- Product Co-Founder: 
 
 ### **Advisors & Strategic Partners**
 
