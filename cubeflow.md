@@ -1,10 +1,10 @@
-# CubeFlow: Dataflow Platform for Robots & Smart Devices
+# CubeFlow: Cloud-Native Robotics Platform
 
 ## **1. Executive Summary**
 
 ### **Mission Statement:**  
 
-*"CubeFlow empowers next-generation robotics with an innovative dataflow platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
+*"CubeFlow empowers next-generation robotics with an innovative tech platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
 
 ### **Overview**
 
@@ -16,19 +16,15 @@ We offer CubeFlow through a combination of ***cloud service + open source***.
 
 And CubeFlow is anticipated to evolve into the next-generation robotics platform, significantly streamlining the development of robotic systems. 
 
-### **Problem**
+### **Core Technologies**
 
 Modern robotics generates vast amounts of multi-modal data from cameras, LiDAR, IMU sensors, and other sources. 
-Efficient, end-to-end robotic data management remains an open problem. 
-CubeFlow addresses it by building a robotic dataflow system from scratch. 
-
-### **Solution**
-
-CubeFlow provides an end-to-end robotic dataflow platform with:
+Efficient, end-to-end robotic data management remains a challenging problem. 
+CubeFlow addresses it by building from scratch an end-to-end robotics dataflow platform with:
 
 - **Efficient data management:** High-throughput storage and retrieval optimized for robotic data.
 - **Edge-cloud collaboration:** Seamless data sharing and processing across distributed environments.
-- **AI-native data pipelines:** Automated annotation, real-time indexing, and incremental *online learning*.
+- **AI/ML model pipelines:** Automated annotation, training or tuning, and incremental *online learning*.
 
 ### **Business Model**
 
